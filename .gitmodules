@@ -1,0 +1,3 @@
+[submodule "Website Library"]
+	path = lib/EXPWebsite
+	url = https://github.com/EXPLOREatRIT/EXPWebsite
