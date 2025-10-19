@@ -1,5 +1,9 @@
-#define SERVO_PIN 
-#define ENCODER_A_PIN
-#define ENCODER_B_PIN
-#define CAMERA_SWITCH_PIN
+
+#define ENCODER_A_PINB 12
+#define ENCODER_A_PINW 20
+#define ENCODER_B_PINB 17
+#define ENCODER_B_PINW 28
+
+
+
 #define UDPPORT 8001
